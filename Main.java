@@ -39,7 +39,7 @@ public class Main {
 				continue;
 			}
 		}
-		// Check for "pyramid" amounts
+		// All conditions met
 		return true;
 	}
 
